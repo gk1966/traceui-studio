@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "TraceUI — Production & Education Studio"
+abstract: >-
+  A single-file, browser-based studio that turns a project idea into an explicit, reviewable
+  specification and a single production brief for generative-AI tools. It provides two workspaces —
+  education (learning objectives, teaching strategy, activities, assessment methods and an
+  alignment matrix) and professional design (websites, digital products, UI/UX flows, accessible
+  SVG, technical parameters and controlled AI handoff) — with defined human review points,
+  accessibility expressed as checkable requirements, acceptance checks for the returned artefacts,
+  and project export and import. The interface is available in six languages and the language of
+  the generated material is chosen independently. The application runs entirely in the browser with
+  no server, no account and no network requests.
+type: software
+version: "3.1"
+date-released: 2026-09-11
+license: CC-BY-4.0
+authors:
+  - family-names: Korakakis
+    given-names: Georgios
+    orcid: "https://orcid.org/0009-0005-0042-6348"
+    affiliation: "Department of Graphic Design and Visual Communication, School of Applied Arts and Culture, University of West Attica, Egaleo, Athens, Greece"
+keywords:
+  - design education
+  - instructional design
+  - specification
+  - accessibility
+  - generative artificial intelligence
+  - prompt design
+  - educational technology
+  - multilingual software
