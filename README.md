@@ -1,5 +1,7 @@
 # TraceUI — Production & Education Studio
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22704970.svg)](https://doi.org/10.5281/zenodo.22704970)
+
 **Version 3.1** · single-file web application · runs entirely in the browser
 
 A browser-based studio that turns a project idea into an explicit, reviewable specification and a
@@ -95,5 +97,11 @@ Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE`.
 
 ## Citation
 
-If you use this application in teaching or research, please cite it using the metadata in
-`CITATION.cff`, or the archived record and its DOI.
+Korakakis, G. (2026). *TraceUI — Production & Education Studio* (Version 3.1) [Computer software].
+Zenodo. https://doi.org/10.5281/zenodo.22704970
+
+The DOI above is the concept DOI: it always resolves to the most recent version. To cite version
+3.1 specifically, use https://doi.org/10.5281/zenodo.22704971. Machine-readable metadata is in
+`CITATION.cff`.
+
+**Live version:** https://gk1966.github.io/traceui-studio/

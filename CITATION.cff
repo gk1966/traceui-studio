@@ -15,6 +15,16 @@ type: software
 version: "3.1"
 date-released: 2026-09-11
 license: CC-BY-4.0
+doi: 10.5281/zenodo.22704970
+repository-code: "https://github.com/gk1966/traceui-studio"
+url: "https://gk1966.github.io/traceui-studio/"
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.22704970
+    description: Concept DOI, always resolving to the latest version
+  - type: doi
+    value: 10.5281/zenodo.22704971
+    description: DOI of version 3.1
 authors:
   - family-names: Korakakis
     given-names: Georgios
